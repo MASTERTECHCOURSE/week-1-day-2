@@ -4,6 +4,11 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.bg {
+    background-image: url("../img/bkg.jpg");
+    height: 500px;
+    background-size: cover;    
+}
 .navBar {
     background: #ff8c00;
     width: 100%;
